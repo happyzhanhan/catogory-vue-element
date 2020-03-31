@@ -10,5 +10,5 @@
 ## 顺便讲一下，如何在github上预览自己的静态页面效果:
 #### 第一步：找到Settings，点击
 #### 第二步：找到githubPages点击none,切换到master branch，save保存
-#### 第三步：保存后出现了连接，点击，就ok了
+#### 第三步：保存后出现了链接，点击，（默认有index.html），就ok了
 
